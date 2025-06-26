@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Block I",
+    "content": "Introduction",
+    "ref": "/"
+  },
+  {
+    "id": 2,
+    "title": "Block II",
+    "content": "Tool I Assessment of exposure of buildings and surroundings",
+    "ref": "/"
+  },
+  {
+    "id": 3,
+    "title": "Block III",
+    "content": "Tool II Sensitivity of equipment and materials",
+    "ref": "/"
+  },
+  {
+    "id": 4,
+    "title": "Block IV",
+    "content": "Tool III Vulnerable groups",
+    "ref": "/"
+  },
+  {
+    "id": 5,
+    "title": "Block V",
+    "content": "Tool IV Preparedness and adaptive capacity of cities and municipalities",
+    "ref": "/"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "src": "placeholder.png",
+    "alt": "placeholder image",
+    "title": "Regional and local governance",
+    "ref": "/"
+  },
+  {
+    "id": 2,
+    "src": "placeholder.png",
+    "alt": "placeholder image",
+    "title": "Infrastructure management companies and authorities",
+    "ref": "/"
+  },
+  {
+    "id": 3,
+    "src": "placeholder.png",
+    "alt": "placeholder image",
+    "title": "Planners, designers and infrastructure professionals",
+    "ref": "/"
+  },
+  {
+    "id": 4,
+    "src": "placeholder.png",
+    "alt": "placeholder image",
+    "title": "Academia and scientific community",
+    "ref": "/"
+  },
+  {
+    "id": 5,
+    "src": "placeholder.png",
+    "alt": "placeholder image",
+    "title": "NGOs",
+    "ref": "/"
+  }
+]
